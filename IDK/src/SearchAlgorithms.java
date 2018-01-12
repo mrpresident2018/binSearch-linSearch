@@ -44,7 +44,7 @@ public class SearchAlgorithms
 			}
 			else if(q < a[mid])
 			{
-				r = mid-1;
+				r = mid-1;	
 			}
 			else 
 			{
